@@ -1,1 +1,1 @@
-Setting up git environment 
+Repo established for the database engineering capstone project.
